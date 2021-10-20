@@ -16,11 +16,12 @@ public class task1_4 {
             System.out.println("отсортированный массив:");
             for (int k = 0; k < mas.length; k++) {
                 System.out.print(" " + mas[k]);
+                System.out.print( " ");
             }
         int temp = mas[0];
         mas[0] = mas[11];
         mas[11] = temp;
-        System.out.println("отсортированный массив:");
+        System.out.println("после замены:");
         for (int k = 0; k < mas.length; k++) {
             System.out.print(" " + mas[k]);
         }
