@@ -6,13 +6,12 @@ public class task2_3 {
                         {2, 6, 7},
                         {1, 3, 6}};
         for (int i = 0; i < mas.length; i++) {
-            System.out.print(mas[a][i] + " ");
+            System.out.print(mas[a][i] + ". ");
         }
         System.out.println();
         for (int i = 0; i < mas.length; i++) {
-            System.out.print(mas[i][b] + " ");
+            System.out.print(mas[i][b] + ". ");
         }
-
             }
         }
 
