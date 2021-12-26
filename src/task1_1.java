@@ -1,3 +1,4 @@
+//1. В массив A [N] занесены натуральные числа. Найти сумму тех элементов, которые кратны данному К
 public class task1_1 {
 
     public static void main(String[] args) {

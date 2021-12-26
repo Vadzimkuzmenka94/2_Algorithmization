@@ -1,3 +1,13 @@
+/*
+    Формирует матрицу по шаблону
+    1 2 3 ... n
+    n n-1 n-2...1
+    1 2 3 ... n
+    n n-1 n-2...1
+    .............
+    n n-1 n-2...1
+ */
+
 public class task2_4 {
     public static void main(String[] args) {
         int n = 6; // Задаем размерность
